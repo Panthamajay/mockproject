@@ -89,6 +89,7 @@ def lambda_handler(event, context):
                 'Team2 Players[9]': Team2 Players[9],
                 'Team2 Players[10]': Team2 Players[10]
         }
+     }
   )
   print(response)
     return {
